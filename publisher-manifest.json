@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "4b7b8c58a607ac0ea0887e7a",
+  "owner": "kcmsskxse",
+  "repo": "kcmsskxse.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "1e4c3f7242b88fc180aa3fa7",
+      "a": "Pikachu",
+      "b": "官方发布页",
+      "entity": "Pikachu",
+      "brand": "官方发布页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9b928e34a71813c0f156edeae957b15e75c883b7fb8e1817dd84babeef80180e",
+      "content": {
+        "primary_entity": "Pikachu",
+        "keyword1": "Pikachu",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，手机、电脑与路由器各有对应订阅配置方式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备和使用场景选择套餐，让海外网络访问更顺畅。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松开始",
+          "AI_DESCRIPTION": "，Pikachu 提供基础版、旗舰版和团队版三种套餐，月付或年付灵活选择。基础版每月 100GB 流量支持 3 台设备，旗舰版提升至 300GB 与 5 台设备，并加入 IPLC 专线游戏加速优化。团队版面向多设备协作，提供 1000GB 流量与 VIP 专属高带宽节点。用户可根据日常使用强度、设备数量和流媒体需求，找到适合自己的方案。",
+          "AI_FAQ_ANSWER_1": "在 Pikachu 的套餐页面可以看到基础版、旗舰版和团队版的详细权益。基础版适合轻度使用，旗舰版适合有流媒体和游戏加速需求的用户，团队版支持更多设备和更高流量。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。设备数量按同时连接计算，切换设备时可先退出旧设备。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相当于用约十个月的费用覆盖全年。",
+          "AI_FAQ_ANSWER_4": "在对应客户端的订阅管理界面粘贴订阅链接并更新，即可同步节点与配置。不同客户端的导入步骤以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，普通线路节点池用于日常浏览。若主要使用游戏或实时应用，优先选择旗舰版或团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Pikachu 有哪些套餐可供选择？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "年付和月付价格有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅链接？",
+          "AI_FAQ_QUESTION_5": "哪种套餐适合游戏加速和流媒体？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从日常浏览到多人协作，Pikachu 的套餐设计覆盖不同使用场景。",
+          "AI_FEATURES_TITLE": "套餐特色",
+          "AI_FEATURE_TEXT_1": "基础版提供每月 100GB 流量，适合手机与电脑轻度使用；旗舰版提升至 300GB，满足流媒体和居家办公需求。",
+          "AI_FEATURE_TEXT_2": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。按自身设备数量选择，避免频繁切换。",
+          "AI_FEATURE_TEXT_3": "所有套餐均可按月付费，年付方案提供更优惠的单价，适合长期稳定使用的用户提前规划。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按步骤操作即可开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "Pikachu 为海外网络访问提供多种套餐选择，涵盖从个人日常使用到团队协作的不同需求。基础版、旗舰版和团队版在流量、设备数量和线路优化上各有侧重，方便按实际场景挑选。",
+          "AI_HERO_SUBTITLE": "Pikachu 海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "年付方案更省长期费用",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备；旗舰版 300GB 支持 5 台设备并含 IPLC 专线；团队版 1000GB 支持 20 台设备。年付分别仅需 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、设备数量和是否需要游戏加速，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐的适配要求，包括操作系统版本、路由器型号或客户端类型，确保设备可以正常使用。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照其文档导入订阅链接，完成节点同步与配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Pikachu 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a340355c802a4cb3fe0900b3c4b6d10f2d560e8014291cd88a267c63003f5871",
+    "sitemap.xml": "8728532de126cdd812744774502a3dad655a63b5f8f47dbab3176475f07e93b0",
+    "robots.txt": "80a27f6e3d5bb4c41a8e816f3ddb6b639eefa5d196a145562e353b819c5a9951",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9fad1af473d0b2f8fc9ea6015a33f325918a0eb17bd8afc8058a4806c08ca2b1"
+}
